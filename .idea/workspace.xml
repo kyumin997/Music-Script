@@ -16,11 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -144,49 +141,65 @@
       <workItem from="1554386743657" duration="3080000" />
       <workItem from="1554445480835" duration="3137000" />
       <workItem from="1554518025826" duration="4982000" />
+      <workItem from="1554912385174" duration="5016000" />
     </task>
+    <task id="LOCAL-00001" summary="Honestly, I have no idea what's going on. It's broken asf :skull:">
+      <created>1554912427884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554912427884</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finally able to iterate though file system and output given png to a specified directory :snake:">
+      <created>1554914837879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554914837879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 03m 27s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 37m 43s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 05m 17s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 39m 15s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 05m 53s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 39m 23s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 06m 24s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 39m 38s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 20m 07s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 40m 35s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 20m 43s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 41m 04s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 27m 17s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 41m 31s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 28m 00s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 44m 38s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 20h 28m 45s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 09h 44m 59s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_main - 2019.04.05 at 21h 11m 34s.xml">
+    <history-entry file="Doctests_in_main - 2019.04.10 at 12h 17m 39s.xml">
       <configuration name="Doctests in main" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19955000" />
+    <option name="totallyTimeSpent" value="24971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="994" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20277481" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20490928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,7 +213,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983682" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.43356642" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2948718" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -212,18 +225,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Honestly, I have no idea what's going on. It's broken asf :skull:" />
+    <MESSAGE value="Finally able to iterate though file system and output given png to a specified directory :snake:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally able to iterate though file system and output given png to a specified directory :snake:" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Music_Script$Doctests_in_main.coverage" NAME="Doctests in main Coverage Results" MODIFIED="1554523894270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Music_Script$Doctests_in_main.coverage" NAME="Doctests in main Coverage Results" MODIFIED="1554923859880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GetFilename" />
     <entry file="file://$PROJECT_DIR$/src/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
         </state>
       </provider>
     </entry>

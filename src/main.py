@@ -6,7 +6,7 @@ def get_file_path(path, extension):
     Grabs all filenames in the given path.
 
     :param path: a string containing the path of the files you want to find.
-    :param extension: file extension you want to search
+    :param extension: file extension you want to search for.
     :return a list containing the names of the files in the given path.
     """
     assert isinstance(path, str)
@@ -27,14 +27,19 @@ def get_file_path(path, extension):
 
 def open_terminal(paths):
     """
-    Runs ffmpeg in order to save the image to train.
-    :param paths:
-    :param names:
+    Runs ffmpeg in order to save the image to train the neural network.
+    :param paths: List of paths to the music files.
     :return:
     """
     assert isinstance(paths, list)
 
-    __command_part_one = 'ffmpeg -y -i '
+    #                    ffmpeg: program used to generate spectrum
+    #           -loglevel quiet: no ffmpeg output
+    #                        -y: overwrites the file saved if it already exists
+    #                    -lavfi: reads data of a libavfilter filtergraph
+    # showspectrumpic=s=640x374: saves spectrum as a 640x374 px png
+
+    __command_part_one = 'ffmpeg -loglevel quiet -y -i '
     __command_part_two = ' -lavfi showspectrumpic=s=640x374 '
 
     for files in paths:
