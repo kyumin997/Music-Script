@@ -9,7 +9,7 @@ if __name__ == '__main__':
 
     root = Tk()
     root.geometry("500x250+710+415")
-    app = MusicUI(root)
+    app = GUI(root)
     app.hide()
     music_dir = app.get_file_dir()
     app.msg_box()
