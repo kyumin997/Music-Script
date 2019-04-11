@@ -28,8 +28,9 @@ def get_file_path(path, extension):
 def open_terminal(paths):
     """
     Runs ffmpeg in order to save the image to train the neural network.
+
     :param paths: List of paths to the music files.
-    :return:
+
     """
     assert isinstance(paths, list)
 
